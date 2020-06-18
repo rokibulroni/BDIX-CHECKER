@@ -1,5 +1,5 @@
 # BDIX-CHECKER
-BDIX CHECKER
+BDIX CHECKER | Watch the following "HOW TO" video to get clear concept.
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=HGdmHdaoy48">
