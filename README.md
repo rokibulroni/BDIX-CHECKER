@@ -1,11 +1,3 @@
 # BDIX-CHECKER
-BDIX CHECKER | Watch the following "HOW TO" video to get clear concept.
+BDIX CHECKER | Download the file and extract. Just double click on BAT file
 
-<div align="center">
-      <a href="https://www.youtube.com/embed/HGdmHdaoy48">
-     <img 
-      src="https://raw.githubusercontent.com/rialms/BDIX-CHECKER/master/lib/PHONIX/RONI/RONI/OSDROID/l.png" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
